@@ -1,0 +1,9 @@
+.git/
+__pycache__/
+venv/
+build/
+dist/
+versions/
+R_config.txt
+credentials.json
+logging.log

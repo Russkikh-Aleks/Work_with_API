@@ -1,0 +1,4 @@
+vk_token = 
+VK user ID = 
+Yandex token = 
+Credentials file name = 
